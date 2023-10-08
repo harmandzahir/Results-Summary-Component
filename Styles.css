@@ -1,0 +1,21 @@
+:root {
+  /* Primary Colors */
+  --primary-light_red: hsl(0, 100%, 67%);
+  --primary-orangey_yellow: hsl(39, 100%, 56%);
+  --primary-green_teal: hsl(166, 100%, 37%);
+  --primary-cobalt_blue: hsl(234, 85%, 45%);
+
+  /* Background Gradients */
+  --gradient-light_slate_blue: hsl(252, 100%, 67%);
+  --gradient-light_royal_blue: hsl(241, 81%, 54%);
+
+  /* Circle Gradients */
+  --gradient-violet_blue: hsla(256, 72%, 46%, 1);
+  --gradient-persian_blue: hsla(241, 72%, 46%, 0);
+
+  /* Neutral */
+  --neutral-white: hsl(0, 0%, 100%);
+  --neutral-pale_blue: hsl(221, 100%, 96%);
+  --neutral-lavender: hsl(241, 100%, 89%);
+  --neutral-dark_gray_blue: hsl(224, 30%, 27%);
+}
